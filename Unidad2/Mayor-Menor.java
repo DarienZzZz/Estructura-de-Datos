@@ -19,7 +19,6 @@ public class Main
 			numero[i] = sc.nextInt();
 			numero2[i] = numero[i];
 		}
-		//Inicio del metodo burbuja para ordenar los arreglos
 		for (int j = 0; j < c; j++)
 		{
 			for (int i = 0; i < c; i++)
